@@ -1,0 +1,18 @@
+{
+  "CNV_calling.conifer.ref_sa": "home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.sa",
+  "CNV_calling.conifer.conifer": "/home/ubuntu/pipelines/pipelines/CNV_calling/conifer_python3/conifer.py",
+  "CNV_calling.conifer.picard": "/home/ubuntu/shahidbeheshti/picard.jar",
+  "CNV_calling.conifer.ref_ann": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.ann",
+  "CNV_calling.conifer.ref_dict": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.dict",
+  "CNV_calling.conifer.ref_amb": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.amb",
+  "CNV_calling.conifer.ref_fasta": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta",
+  "CNV_calling.conifer.ref_pac": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.pac",
+  "CNV_calling.conifer.inputfastq1": "/home/ubuntu/shahidbeheshti/SRR8378431_1.fastq",
+  "CNV_calling.conifer.inputfastq2": "/home/ubuntu/shahidbeheshti/SRR8378431_2.fastq",
+  "CNV_calling.conifer.ref_bwt": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.bwt",
+  "CNV_calling.conifer.rpkm_dir": "/home/ubuntu/pipelines/pipelines/CNV_calling/conifer_python3/conifer_results",
+  "CNV_calling.conifer.probes": "/home/ubuntu/pipelines/pipelines/CNV_calling/conifer_python3/probes.nimblegen.txt",
+  "CNV_calling.conifer.sampleName": "SRR8378431",
+  "CNV_calling.conifer.ref_fasta_index": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.fai"
+}
+

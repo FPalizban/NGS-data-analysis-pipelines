@@ -1,0 +1,17 @@
+{
+  "SV_calling.manta.picard": "/home/ubuntu/shahidbeheshti/picard.jar",
+  "SV_calling.manta.ref_fasta": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta",
+  "SV_calling.manta.manta": "/home/ubuntu/pipelines/pipelines/SV_calling/manta-1.6.0.centos6_x86_64/bin/configManta.py",
+  "SV_calling.manta.inputfastq2": "/home/ubuntu/shahidbeheshti/SRR8378431_2.fastq",
+  "SV_calling.manta.manta_dir": "/home/ubuntu/pipelines/pipelines/SV_calling/manta-1.6.0.centos6_x86_64/manta_results",
+  "SV_calling.manta.ref_sa": "home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.sa",
+  "SV_calling.manta.inputfastq1": "/home/ubuntu/shahidbeheshti/SRR8378431_1.fastq",
+  "SV_calling.manta.sampleName": "SRR8378431",
+  "SV_calling.manta.ref_bwt": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.bwt",
+  "SV_calling.manta.ref_pac": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.pac",
+  "SV_calling.manta.ref_fasta_index": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.fai",
+  "SV_calling.manta.ref_amb": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.amb",
+  "SV_calling.manta.ref_ann": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.ann",
+  "SV_calling.manta.ref_dict": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.dict"
+}
+

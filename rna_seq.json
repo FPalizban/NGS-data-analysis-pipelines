@@ -1,0 +1,9 @@
+{
+  "RNA_Seq.hisat2.ref_gtf": "File",
+  "RNA_Seq.hisat2.sampleName": "String",
+  "RNA_Seq.hisat2.hisat_index": "String",
+  "RNA_Seq.hisat2.picard": "File",
+  "RNA_Seq.hisat2.inputfastq2": "File",
+  "RNA_Seq.hisat2.inputfastq1": "File"
+}
+

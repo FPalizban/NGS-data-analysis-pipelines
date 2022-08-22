@@ -1,0 +1,20 @@
+{
+  "trio_calling.varscan.sampleName": "String",
+  "trio_calling.varscan.child_inputfastq1": "File",
+  "trio_calling.varscan.mom_inputfastq1": "File",
+  "trio_calling.varscan.ref_amb": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.amb",
+  "trio_calling.varscan.dad_inputfastq1": "File",
+  "trio_calling.varscan.ref_ann": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.ann",
+  "trio_calling.varscan.ref_pac": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.pac",
+  "trio_calling.varscan.ref_dict": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.dict",
+  "trio_calling.varscan.mom_inputfastq2": "File",
+  "trio_calling.varscan.ref_fasta_index": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.fai",
+  "trio_calling.varscan.VarScan": "/home/ubuntu/pipelines/pipelines/trio_calling/VarScan.v2.3.9.jar",
+  "trio_calling.varscan.ref_fasta": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta",
+  "trio_calling.varscan.dad_inputfastq2": "File",
+  "trio_calling.varscan.child_inputfastq2": "File",
+  "trio_calling.varscan.picard": "/home/ubuntu/shahidbeheshti/picard.jar",
+  "trio_calling.varscan.ref_bwt": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.bwt",
+  "trio_calling.varscan.ref_sa": "home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.sa"
+}
+

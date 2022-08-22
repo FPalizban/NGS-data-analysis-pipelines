@@ -1,0 +1,17 @@
+{
+  "germline_calling.HaplotypeCaller.ref_amb": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.amb",
+  "germline_calling.HaplotypeCaller.inputfastq2": "SRR2130005_2.fastq",
+  "germline_calling.HaplotypeCaller.gatk": "gatk-4.2.6.1/gatk-package-4.2.6.1-local.jar",
+  "germline_calling.HaplotypeCaller.ref_pac": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.pac",
+  "germline_calling.HaplotypeCaller.ref_dict": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.dict",
+  "germline_calling.HaplotypeCaller.ref_sa": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.sa",
+  "germline_calling.HaplotypeCaller.ref_bwt": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.bwt",
+  "germline_calling.HaplotypeCaller.sampleName": "SRR2130005",
+  "germline_calling.HaplotypeCaller.ref_fasta": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta",
+  "germline_calling.HaplotypeCaller.picard": "picard.jar",
+  "germline_calling.HaplotypeCaller.ref_fasta_index": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.fai",
+  "germline_calling.HaplotypeCaller.inputfastq1": "SRR2130005_1.fastq",
+  "germline_calling.HaplotypeCaller.ref_ann": "/home/ubuntu/Resources/Resources/ftp.broadinstitute.org/bundle/hg38/Homo_sapiens_assembly38.fasta.ann",
+  "germline_calling.HaplotypeCaller.ref_alt": "File? (optional)"
+}
+
